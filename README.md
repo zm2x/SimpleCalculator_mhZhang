@@ -4,7 +4,7 @@
 
 # such as  C#_classical_feature delegate and orinted object programming, genericity concept, container_list and so on;
 
-# This program can be used to calculate the single calculated_operation but seven kinds;And it supports () and '-'.
+# This program can be used to calculate the single calculated_operation in  seven kinds;And it supports () and '-'.
 
 # C# is a safety,efficient language.I love it.
 
